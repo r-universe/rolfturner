@@ -1,40 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/rolfturner/universe
 	shallow = true
 	branch = HEAD
-[submodule "AssetPricing"]
-	path = AssetPricing
-	url = https://github.com/cran/AssetPricing
-	shallow = true
-	registered = true
-[submodule "dbd"]
-	path = dbd
-	url = https://github.com/cran/dbd
-	shallow = true
-	registered = true
-[submodule "deldir"]
-	path = deldir
-	url = https://github.com/cran/deldir
-	shallow = true
-	registered = true
-[submodule "hmm.discnp"]
-	path = hmm.discnp
-	url = https://github.com/cran/hmm.discnp
-	shallow = true
-	registered = true
-[submodule "hse"]
-	path = hse
-	url = https://github.com/cran/hse
-	shallow = true
-	registered = true
-[submodule "Iso"]
-	path = Iso
-	url = https://github.com/cran/Iso
-	shallow = true
-	registered = true
-[submodule "mixreg"]
-	path = mixreg
-	url = https://github.com/cran/mixreg
+[submodule "ionChannelData"]
+	path = ionChannelData
+	url = https://github.com/rolfTurner/ionChannelData
 	shallow = true
 	registered = true
