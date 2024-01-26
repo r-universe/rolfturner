@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rolfturner/universe
+	url = https://github.com/rolfturner/rolfturner.r-universe.dev
 	branch = HEAD
 [submodule "ionChannelData"]
 	path = ionChannelData
